@@ -21,7 +21,6 @@ def assembled_matrix
   "Grapefruit",
   "Pineapple",
   "Oranges",
-  assembled_matrix
   "Watermelon",
   "Eggplant"
 ],[
